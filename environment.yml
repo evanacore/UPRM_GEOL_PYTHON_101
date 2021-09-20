@@ -1,4 +1,4 @@
-name: try-gmt
+name: uprm-geol-python-101
 channels:
   - conda-forge
   - defaults
